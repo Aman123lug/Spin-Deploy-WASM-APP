@@ -12,3 +12,6 @@ spin build
 ``` bash
 spin deploy
 ```
+
+## Deployed Image
+<img src="Screenshot 2023-06-04 155257.png">
